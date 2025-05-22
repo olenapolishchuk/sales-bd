@@ -49,3 +49,10 @@ Built as part of a Data Analytics Portfolio. Perfect for showcasing skills in:
 - Data visualization
 - Business intelligence
 - SQL + BI integration
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
